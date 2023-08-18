@@ -1,0 +1,20 @@
+table,th,td {
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+.error{
+    color: red;
+}
+body{
+    overflow-y: hidden;
+}
+.col-md-8{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.col-xl-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+
+
