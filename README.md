@@ -24,5 +24,7 @@ This is an Admin Panel Project which has two module
   12. login details for admin:-
       Username= admin@gmail.com AND Password=12345
   13. First Register and then Login.
-      login details for admin:-
+      login details for user:-
       Username= abc@gmail.com AND Password=12345
+      OR
+      Username= abcd@gmail.com AND Password=12345
